@@ -17,4 +17,4 @@ models/*.pkl
 output/
 *.csv
 !src/data/*.csv
-.streamlit/
+.streamlit/secrets.toml
